@@ -1,0 +1,139 @@
+team_id,abbreviation,name,conference
+2005,AFA,Air Force Falcons,Mountain West Conference
+2006,AKR,Akron Zips,Mid-American Conference
+333,ALA,Alabama Crimson Tide,Southeastern Conference
+2026,APP,App State Mountaineers,Sun Belt Conference
+12,ARIZ,Arizona Wildcats,Big 12 Conference
+8,ARK,Arkansas Razorbacks,Southeastern Conference
+349,ARMY,Army Black Knights,American Conference
+2032,ARST,Arkansas State Red Wolves,Sun Belt Conference
+9,ASU,Arizona State Sun Devils,Big 12 Conference
+2,AUB,Auburn Tigers,Southeastern Conference
+2050,BALL,Ball State Cardinals,Mid-American Conference
+239,BAY,Baylor Bears,Big 12 Conference
+103,BC,Boston College Eagles,Atlantic Coast Conference
+189,BGSU,Bowling Green Falcons,Mid-American Conference
+68,BOIS,Boise State Broncos,Pac-12 Conference
+2084,BUFF,Buffalo Bulls,Mid-American Conference
+252,BYU,BYU Cougars,Big 12 Conference
+25,CAL,California Golden Bears,Atlantic Coast Conference
+324,CCU,Coastal Carolina Chanticleers,Sun Belt Conference
+2132,CIN,Cincinnati Bearcats,Big 12 Conference
+228,CLEM,Clemson Tigers,Atlantic Coast Conference
+2429,CLT,Charlotte 49ers,American Conference
+2117,CMU,Central Michigan Chippewas,Mid-American Conference
+38,COLO,Colorado Buffaloes,Big 12 Conference
+41,CONN,UConn Huskies,FBS Independents
+36,CSU,Colorado State Rams,Pac-12 Conference
+48,DEL,Delaware Blue Hens,Conference USA
+150,DUKE,Duke Blue Devils,Atlantic Coast Conference
+151,ECU,East Carolina Pirates,American Conference
+2199,EMU,Eastern Michigan Eagles,Mid-American Conference
+2226,FAU,Florida Atlantic Owls,American Conference
+2229,FIU,Florida International Panthers,Conference USA
+57,FLA,Florida Gators,Southeastern Conference
+278,FRES,Fresno State Bulldogs,Pac-12 Conference
+52,FSU,Florida State Seminoles,Atlantic Coast Conference
+290,GASO,Georgia Southern Eagles,Sun Belt Conference
+2247,GAST,Georgia State Panthers,Sun Belt Conference
+59,GT,Georgia Tech Yellow Jackets,Atlantic Coast Conference
+62,HAW,Hawai'i Rainbow Warriors,Mountain West Conference
+248,HOU,Houston Cougars,Big 12 Conference
+356,ILL,Illinois Fighting Illini,Big Ten Conference
+2294,IOWA,Iowa Hawkeyes,Big Ten Conference
+66,ISU,Iowa State Cyclones,Big 12 Conference
+84,IU,Indiana Hoosiers,Big Ten Conference
+256,JMU,James Madison Dukes,Sun Belt Conference
+55,JXST,Jacksonville State Gamecocks,Conference USA
+338,KENN,Kennesaw State Owls,Conference USA
+2309,KENT,Kent State Golden Flashes,Mid-American Conference
+2306,KSU,Kansas State Wildcats,Big 12 Conference
+2305,KU,Kansas Jayhawks,Big 12 Conference
+2335,LIB,Liberty Flames,Conference USA
+97,LOU,Louisville Cardinals,Atlantic Coast Conference
+99,LSU,LSU Tigers,Southeastern Conference
+2348,LT,Louisiana Tech Bulldogs,Sun Belt Conference
+193,M-OH,Miami (OH) RedHawks,Mid-American Conference
+113,MASS,Massachusetts Minutemen,Mid-American Conference
+120,MD,Maryland Terrapins,Big Ten Conference
+235,MEM,Memphis Tigers,American Conference
+2390,MIA,Miami Hurricanes,Atlantic Coast Conference
+130,MICH,Michigan Wolverines,Big Ten Conference
+135,MINN,Minnesota Golden Gophers,Big Ten Conference
+145,MISS,Ole Miss Rebels,Southeastern Conference
+142,MIZ,Missouri Tigers,Southeastern Conference
+2623,MOST,Missouri State Bears,Conference USA
+276,MRSH,Marshall Thundering Herd,Sun Belt Conference
+344,MSST,Mississippi State Bulldogs,Southeastern Conference
+127,MSU,Michigan State Spartans,Big Ten Conference
+2393,MTSU,Middle Tennessee Blue Raiders,Conference USA
+2426,NAVY,Navy Midshipmen,American Conference
+152,NCSU,NC State Wolfpack,Atlantic Coast Conference
+87,ND,Notre Dame Fighting Irish,FBS Independents
+2449,NDSU,North Dakota State Bison,Mountain West Conference
+158,NEB,Nebraska Cornhuskers,Big Ten Conference
+2440,NEV,Nevada Wolf Pack,Mountain West Conference
+2459,NIU,Northern Illinois Huskies,Mountain West Conference
+166,NMSU,New Mexico State Aggies,Conference USA
+77,NU,Northwestern Wildcats,Big Ten Conference
+295,ODU,Old Dominion Monarchs,Sun Belt Conference
+195,OHIO,Ohio Bobcats,Mid-American Conference
+197,OKST,Oklahoma State Cowboys,Big 12 Conference
+2483,ORE,Oregon Ducks,Big Ten Conference
+204,ORST,Oregon State Beavers,Pac-12 Conference
+194,OSU,Ohio State Buckeyes,Big Ten Conference
+201,OU,Oklahoma Sooners,Southeastern Conference
+221,PITT,Pittsburgh Panthers,Atlantic Coast Conference
+213,PSU,Penn State Nittany Lions,Big Ten Conference
+2509,PUR,Purdue Boilermakers,Big Ten Conference
+242,RICE,Rice Owls,American Conference
+164,RUTG,Rutgers Scarlet Knights,Big Ten Conference
+16,SAC,Sacramento State Hornets,Mid-American Conference
+2579,SC,South Carolina Gamecocks,Southeastern Conference
+21,SDSU,San Diego State Aztecs,Pac-12 Conference
+2534,SHSU,Sam Houston Bearkats,Conference USA
+23,SJSU,San José State Spartans,Mountain West Conference
+2567,SMU,SMU Mustangs,Atlantic Coast Conference
+24,STAN,Stanford Cardinal,Atlantic Coast Conference
+183,SYR,Syracuse Orange,Atlantic Coast Conference
+245,TA&M,Texas A&M Aggies,Southeastern Conference
+2628,TCU,TCU Horned Frogs,Big 12 Conference
+218,TEM,Temple Owls,American Conference
+2633,TENN,Tennessee Volunteers,Southeastern Conference
+251,TEX,Texas Longhorns,Southeastern Conference
+202,TLSA,Tulsa Golden Hurricane,American Conference
+2649,TOL,Toledo Rockets,Mid-American Conference
+2653,TROY,Troy Trojans,Sun Belt Conference
+2641,TTU,Texas Tech Red Raiders,Big 12 Conference
+2655,TULN,Tulane Green Wave,American Conference
+326,TXST,Texas State Bobcats,Pac-12 Conference
+5,UAB,UAB Blazers,American Conference
+2116,UCF,UCF Knights,Big 12 Conference
+26,UCLA,UCLA Bruins,Big Ten Conference
+61,UGA,Georgia Bulldogs,Southeastern Conference
+96,UK,Kentucky Wildcats,Southeastern Conference
+309,UL,Louisiana Ragin' Cajuns,Sun Belt Conference
+2433,ULM,UL Monroe Warhawks,Sun Belt Conference
+153,UNC,North Carolina Tar Heels,Atlantic Coast Conference
+2439,UNLV,UNLV Rebels,Mountain West Conference
+167,UNM,New Mexico Lobos,Mountain West Conference
+249,UNT,North Texas Mean Green,American Conference
+6,USA,South Alabama Jaguars,Sun Belt Conference
+30,USC,USC Trojans,Big Ten Conference
+58,USF,South Florida Bulls,American Conference
+2572,USM,Southern Miss Golden Eagles,Sun Belt Conference
+328,USU,Utah State Aggies,Pac-12 Conference
+254,UTAH,Utah Utes,Big 12 Conference
+2638,UTEP,UTEP Miners,Mountain West Conference
+2636,UTSA,UTSA Roadrunners,American Conference
+258,UVA,Virginia Cavaliers,Atlantic Coast Conference
+238,VAN,Vanderbilt Commodores,Southeastern Conference
+259,VT,Virginia Tech Hokies,Atlantic Coast Conference
+154,WAKE,Wake Forest Demon Deacons,Atlantic Coast Conference
+264,WASH,Washington Huskies,Big Ten Conference
+275,WIS,Wisconsin Badgers,Big Ten Conference
+98,WKU,Western Kentucky Hilltoppers,Conference USA
+2711,WMU,Western Michigan Broncos,Mid-American Conference
+265,WSU,Washington State Cougars,Pac-12 Conference
+277,WVU,West Virginia Mountaineers,Big 12 Conference
+2751,WYO,Wyoming Cowboys,Mountain West Conference
