@@ -1,4 +1,4 @@
-"""Pull NCAA football results and retrain the prior-form table through 2026-11-07.
+"""Pull NCAA football results and retrain the prior-form table through 2026-11-14.
 
 ESPN FBS standings identify the teams. ESPN team schedules supply dates,
 teams, venues, and final scores. Ranking weeks come from the ESPN core
@@ -64,8 +64,8 @@ except ImportError:
             return samples @ self.coef_ + self.intercept_
 
 
-AS_OF = date(2026, 11, 7)
-NEXT_THROUGH = date(2026, 11, 14)
+AS_OF = date(2026, 11, 14)
+NEXT_THROUGH = date(2026, 11, 21)
 HOLDOUT_START = date(2026, 8, 1)
 EASTERN = ZoneInfo("America/New_York")
 ROOT = Path(__file__).resolve().parents[1]
@@ -597,7 +597,7 @@ def main() -> None:
         "Ranking weeks come from the ESPN core API. CollegeFootballData was not used because it requires a key. "
         "A sportsbook is not called. Refresh is manual. This does not price a bet.\n\n"
         "Run `python scripts/refresh_today.py` during the season. "
-        "The script keeps results through its as-of date, 2026-11-07.\n\n"
+        f"The script keeps results through its as-of date, {AS_OF.isoformat()}.\n\n"
         "Output files use the same seeds columns as nfl_game_predictor: "
         "date, away, home, home_win_prob, predicted_points, spread_line, total_line, lean, line. "
         "spread_line and total_line are blank. The line column says this is not a bet.\n",
@@ -609,7 +609,7 @@ def main() -> None:
         "FBS teams come from the ESPN standings tree, including division children such as the Sun Belt. "
         "Each team schedule is requested for 2025 and 2026, and again for postseason games. "
         "A final score is stored only when ESPN marks the game STATUS_FINAL, the Eastern date is on or before "
-        "2026-11-07, and the score is not 0-0. Postponed games are not stored as finals. "
+        f"{AS_OF.isoformat()}, and the score is not 0-0. Postponed games are not stored as finals. "
         f"Schedule request failures: {failures}. "
         "Games against non-FBS opponents stay on the FBS schedule. A non-FBS team's prior form includes only "
         "the games that appear on those schedules.\n\n"

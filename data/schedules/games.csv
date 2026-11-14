@@ -1591,84 +1591,69 @@ date,season,game_type,away,home,away_name,home_name,away_score,home_score,venue
 2026-11-06,2026,REG,NEB,ILL,Nebraska Cornhuskers,Illinois Fighting Illini,13.0,24.0,Gies Memorial Stadium
 2026-11-06,2026,REG,UNM,NEV,New Mexico Lobos,Nevada Wolf Pack,31.0,3.0,Mackay Stadium
 2026-11-06,2026,REG,TCU,ARIZ,TCU Horned Frogs,Arizona Wildcats,28.0,29.0,Casino Del Sol Stadium
-2026-11-07,2026,REG,TEX,MIZ,Texas Longhorns,Missouri Tigers,,,Memorial Stadium
-2026-11-07,2026,REG,BYU,UTAH,BYU Cougars,Utah Utes,,,Rice-Eccles Stadium
-2026-11-07,2026,REG,ISU,BAY,Iowa State Cyclones,Baylor Bears,,,McLane Stadium
-2026-11-07,2026,REG,CLEM,SYR,Clemson Tigers,Syracuse Orange,,,JMA Wireless Dome
-2026-11-07,2026,REG,FSU,BC,Florida State Seminoles,Boston College Eagles,,,"Alumni Stadium (Chestnut Hill, MA)"
-2026-11-07,2026,REG,UNC,CONN,North Carolina Tar Heels,UConn Huskies,,,Pratt & Whitney Stadium
-2026-11-07,2026,REG,UCLA,MINN,UCLA Bruins,Minnesota Golden Gophers,,,Huntington Bank Stadium
-2026-11-07,2026,REG,TLSA,TULN,Tulsa Golden Hurricane,Tulane Green Wave,,,Yulman Stadium
-2026-11-07,2026,REG,DUKE,NCSU,Duke Blue Devils,NC State Wolfpack,,,Carter-Finley Stadium
-2026-11-07,2026,REG,MD,PUR,Maryland Terrapins,Purdue Boilermakers,,,Ross-Ade Stadium
-2026-11-07,2026,REG,ARK,AUB,Arkansas Razorbacks,Auburn Tigers,,,Jordan-Hare Stadium
-2026-11-07,2026,REG,OKST,KSU,Oklahoma State Cowboys,Kansas State Wildcats,,,Bill Snyder Family Stadium
-2026-11-07,2026,REG,ODU,CCU,Old Dominion Monarchs,Coastal Carolina Chanticleers,,,Brooks Stadium (SC)
-2026-11-07,2026,REG,GAST,APP,Georgia State Panthers,App State Mountaineers,,,Kidd Brewer Stadium
-2026-11-07,2026,REG,TA&M,SC,Texas A&M Aggies,South Carolina Gamecocks,,,Williams-Brice Stadium
-2026-11-07,2026,REG,ULM,ARST,UL Monroe Warhawks,Arkansas State Red Wolves,,,Centennial Bank Stadium
-2026-11-07,2026,REG,DEL,KENN,Delaware Blue Hens,Kennesaw State Owls,,,Walens Family Field at Fifth Third Stadium
-2026-11-07,2026,REG,ALA,LSU,Alabama Crimson Tide,LSU Tigers,,,Tiger Stadium (LA)
-2026-11-07,2026,REG,CIN,HOU,Cincinnati Bearcats,Houston Cougars,,,TDECU Stadium
-2026-11-07,2026,REG,MRMK,WAKE,Merrimack Warriors,Wake Forest Demon Deacons,,,Allegacy Federal Credit Union Stadium
-2026-11-07,2026,REG,ORE,OSU,Oregon Ducks,Ohio State Buckeyes,,,Ohio Stadium
-2026-11-07,2026,REG,PSU,WASH,Penn State Nittany Lions,Washington Huskies,,,Husky Stadium
-2026-11-07,2026,REG,CLT,UAB,Charlotte 49ers,UAB Blazers,,,Protective Stadium
-2026-11-07,2026,REG,TEM,NAVY,Temple Owls,Navy Midshipmen,,,Navy-Marine Corps Memorial Stadium
-2026-11-07,2026,REG,MRSH,GASO,Marshall Thundering Herd,Georgia Southern Eagles,,,Allen E. Paulson Stadium
-2026-11-07,2026,REG,WKU,MTSU,Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,,,"Johnny ""Red"" Floyd Stadium"
-2026-11-07,2026,REG,UCF,KU,UCF Knights,Kansas Jayhawks,,,David Booth Kansas Memorial Stadium
-2026-11-07,2026,REG,RICE,UNT,Rice Owls,North Texas Mean Green,,,DATCU Stadium
-2026-11-07,2026,REG,NIU,SJSU,Northern Illinois Huskies,San José State Spartans,,,CEFCU Stadium
-2026-11-07,2026,REG,MOST,FIU,Missouri State Bears,Florida International Panthers,,,Pitbull Stadium
-2026-11-07,2026,REG,LT,TROY,Louisiana Tech Bulldogs,Troy Trojans,,,Veterans Memorial Stadium (AL)
-2026-11-07,2026,REG,VAN,MSST,Vanderbilt Commodores,Mississippi State Bulldogs,,,Davis Wade Stadium
-2026-11-07,2026,REG,RUTG,WIS,Rutgers Scarlet Knights,Wisconsin Badgers,,,Camp Randall Stadium
-2026-11-07,2026,REG,USA,UL,South Alabama Jaguars,Louisiana Ragin' Cajuns,,,Our Lady of Lourdes Stadium
-2026-11-07,2026,REG,BOIS,CSU,Boise State Broncos,Colorado State Rams,,,Canvas Stadium
-2026-11-07,2026,REG,UK,TENN,Kentucky Wildcats,Tennessee Volunteers,,,Neyland Stadium
-2026-11-07,2026,REG,SHSU,JXST,Sam Houston Bearkats,Jacksonville State Gamecocks,,,AmFirst Stadium
-2026-11-07,2026,REG,UGA,MISS,Georgia Bulldogs,Ole Miss Rebels,,,Vaught-Hemingway Stadium
-2026-11-07,2026,REG,COLO,ASU,Colorado Buffaloes,Arizona State Sun Devils,,,Mountain America Stadium
-2026-11-07,2026,REG,LOU,GT,Louisville Cardinals,Georgia Tech Yellow Jackets,,,Bobby Dodd Stadium
-2026-11-07,2026,REG,MIA,ND,Miami Hurricanes,Notre Dame Fighting Irish,,,Notre Dame Stadium
-2026-11-07,2026,REG,MSU,MICH,Michigan State Spartans,Michigan Wolverines,,,Michigan Stadium
-2026-11-07,2026,REG,IOWA,NU,Iowa Hawkeyes,Northwestern Wildcats,,,Ryan Field
-2026-11-07,2026,REG,AFA,ARMY,Air Force Falcons,Army Black Knights,,,Michie Stadium
-2026-11-07,2026,REG,OU,FLA,Oklahoma Sooners,Florida Gators,,,Ben Hill Griffin Stadium
-2026-11-07,2026,REG,LIB,NMSU,Liberty Flames,New Mexico State Aggies,,,Aggie Memorial Stadium
-2026-11-07,2026,REG,WVU,TTU,West Virginia Mountaineers,Texas Tech Red Raiders,,,Galaxy Stadium
-2026-11-07,2026,REG,FRES,USU,Fresno State Bulldogs,Utah State Aggies,,,Maverik Stadium
-2026-11-07,2026,REG,HAW,UTEP,Hawai'i Rainbow Warriors,UTEP Miners,,,Sun Bowl
-2026-11-07,2026,REG,TXST,ORST,Texas State Bobcats,Oregon State Beavers,,,Reser Stadium
-2026-11-07,2026,REG,WYO,UNLV,Wyoming Cowboys,UNLV Rebels,,,Allegiant Stadium
-2026-11-10,2026,REG,WMU,AKR,Western Michigan Broncos,Akron Zips,,,InfoCision Stadium
-2026-11-10,2026,REG,KENT,BGSU,Kent State Golden Flashes,Bowling Green Falcons,,,Doyt L. Perry Stadium
-2026-11-10,2026,REG,OHIO,M-OH,Ohio Bobcats,Miami (OH) RedHawks,,,Yager Stadium
-2026-11-11,2026,REG,MASS,TOL,Massachusetts Minutemen,Toledo Rockets,,,Glass Bowl
-2026-11-11,2026,REG,BUFF,BALL,Buffalo Bulls,Ball State Cardinals,,,Scheumann Stadium
-2026-11-11,2026,REG,SAC,CMU,Sacramento State Hornets,Central Michigan Chippewas,,,Kelly/Shorts Stadium
-2026-11-12,2026,REG,MEM,USF,Memphis Tigers,South Florida Bulls,,,Raymond James Stadium
-2026-11-12,2026,REG,UL,ULM,Louisiana Ragin' Cajuns,UL Monroe Warhawks,,,Malone Stadium
-2026-11-13,2026,REG,FSU,PITT,Florida State Seminoles,Pittsburgh Panthers,,,Acrisure Stadium
-2026-11-13,2026,REG,ILL,UCLA,Illinois Fighting Illini,UCLA Bruins,,,Rose Bowl
-2026-11-13,2026,REG,HOU,COLO,Houston Cougars,Colorado Buffaloes,,,Folsom Field
-2026-11-14,2026,REG,ASU,UCF,Arizona State Sun Devils,UCF Knights,,,Acrisure Bounce House
-2026-11-14,2026,REG,BAY,BYU,Baylor Bears,BYU Cougars,,,LaVell Edwards Stadium
+2026-11-07,2026,REG,TEX,MIZ,Texas Longhorns,Missouri Tigers,34.0,20.0,Memorial Stadium
+2026-11-07,2026,REG,BYU,UTAH,BYU Cougars,Utah Utes,20.0,28.0,Rice-Eccles Stadium
+2026-11-07,2026,REG,ISU,BAY,Iowa State Cyclones,Baylor Bears,31.0,42.0,McLane Stadium
+2026-11-07,2026,REG,CLEM,SYR,Clemson Tigers,Syracuse Orange,18.0,13.0,JMA Wireless Dome
+2026-11-07,2026,REG,FSU,BC,Florida State Seminoles,Boston College Eagles,31.0,24.0,"Alumni Stadium (Chestnut Hill, MA)"
+2026-11-07,2026,REG,UNC,CONN,North Carolina Tar Heels,UConn Huskies,38.0,21.0,Pratt & Whitney Stadium
+2026-11-07,2026,REG,UCLA,MINN,UCLA Bruins,Minnesota Golden Gophers,34.0,20.0,Huntington Bank Stadium
+2026-11-07,2026,REG,TLSA,TULN,Tulsa Golden Hurricane,Tulane Green Wave,60.0,10.0,Yulman Stadium
+2026-11-07,2026,REG,DUKE,NCSU,Duke Blue Devils,NC State Wolfpack,41.0,3.0,Carter-Finley Stadium
+2026-11-07,2026,REG,MD,PUR,Maryland Terrapins,Purdue Boilermakers,34.0,29.0,Ross-Ade Stadium
+2026-11-07,2026,REG,ARK,AUB,Arkansas Razorbacks,Auburn Tigers,23.0,26.0,Jordan-Hare Stadium
+2026-11-07,2026,REG,OKST,KSU,Oklahoma State Cowboys,Kansas State Wildcats,66.0,28.0,Bill Snyder Family Stadium
+2026-11-07,2026,REG,ODU,CCU,Old Dominion Monarchs,Coastal Carolina Chanticleers,21.0,8.0,Brooks Stadium (SC)
+2026-11-07,2026,REG,GAST,APP,Georgia State Panthers,App State Mountaineers,39.0,23.0,Kidd Brewer Stadium
+2026-11-07,2026,REG,TA&M,SC,Texas A&M Aggies,South Carolina Gamecocks,9.0,17.0,Williams-Brice Stadium
+2026-11-07,2026,REG,ULM,ARST,UL Monroe Warhawks,Arkansas State Red Wolves,19.0,17.0,Centennial Bank Stadium
+2026-11-07,2026,REG,DEL,KENN,Delaware Blue Hens,Kennesaw State Owls,40.0,42.0,Walens Family Field at Fifth Third Stadium
+2026-11-07,2026,REG,ALA,LSU,Alabama Crimson Tide,LSU Tigers,31.0,13.0,Tiger Stadium (LA)
+2026-11-07,2026,REG,CIN,HOU,Cincinnati Bearcats,Houston Cougars,24.0,31.0,TDECU Stadium
+2026-11-07,2026,REG,MRMK,WAKE,Merrimack Warriors,Wake Forest Demon Deacons,0.0,77.0,Allegacy Federal Credit Union Stadium
+2026-11-07,2026,REG,ORE,OSU,Oregon Ducks,Ohio State Buckeyes,41.0,28.0,Ohio Stadium
+2026-11-07,2026,REG,PSU,WASH,Penn State Nittany Lions,Washington Huskies,28.0,25.0,Husky Stadium
+2026-11-07,2026,REG,CLT,UAB,Charlotte 49ers,UAB Blazers,12.0,23.0,Protective Stadium
+2026-11-07,2026,REG,TEM,NAVY,Temple Owls,Navy Midshipmen,35.0,42.0,Navy-Marine Corps Memorial Stadium
+2026-11-07,2026,REG,MRSH,GASO,Marshall Thundering Herd,Georgia Southern Eagles,13.0,49.0,Allen E. Paulson Stadium
+2026-11-07,2026,REG,WKU,MTSU,Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,42.0,51.0,"Johnny ""Red"" Floyd Stadium"
+2026-11-07,2026,REG,UCF,KU,UCF Knights,Kansas Jayhawks,33.0,32.0,David Booth Kansas Memorial Stadium
+2026-11-07,2026,REG,RICE,UNT,Rice Owls,North Texas Mean Green,23.0,52.0,DATCU Stadium
+2026-11-07,2026,REG,NIU,SJSU,Northern Illinois Huskies,San José State Spartans,19.0,30.0,CEFCU Stadium
+2026-11-07,2026,REG,MOST,FIU,Missouri State Bears,Florida International Panthers,20.0,23.0,Pitbull Stadium
+2026-11-07,2026,REG,LT,TROY,Louisiana Tech Bulldogs,Troy Trojans,41.0,17.0,Veterans Memorial Stadium (AL)
+2026-11-07,2026,REG,VAN,MSST,Vanderbilt Commodores,Mississippi State Bulldogs,25.0,23.0,Davis Wade Stadium
+2026-11-07,2026,REG,RUTG,WIS,Rutgers Scarlet Knights,Wisconsin Badgers,10.0,31.0,Camp Randall Stadium
+2026-11-07,2026,REG,USA,UL,South Alabama Jaguars,Louisiana Ragin' Cajuns,26.0,28.0,Our Lady of Lourdes Stadium
+2026-11-07,2026,REG,BOIS,CSU,Boise State Broncos,Colorado State Rams,64.0,38.0,Canvas Stadium
+2026-11-07,2026,REG,UK,TENN,Kentucky Wildcats,Tennessee Volunteers,6.0,34.0,Neyland Stadium
+2026-11-07,2026,REG,SHSU,JXST,Sam Houston Bearkats,Jacksonville State Gamecocks,14.0,47.0,AmFirst Stadium
+2026-11-07,2026,REG,UGA,MISS,Georgia Bulldogs,Ole Miss Rebels,42.0,7.0,Vaught-Hemingway Stadium
+2026-11-07,2026,REG,COLO,ASU,Colorado Buffaloes,Arizona State Sun Devils,10.0,20.0,Mountain America Stadium
+2026-11-07,2026,REG,LOU,GT,Louisville Cardinals,Georgia Tech Yellow Jackets,44.0,17.0,Bobby Dodd Stadium
+2026-11-07,2026,REG,MIA,ND,Miami Hurricanes,Notre Dame Fighting Irish,24.0,31.0,Notre Dame Stadium
+2026-11-07,2026,REG,MSU,MICH,Michigan State Spartans,Michigan Wolverines,15.0,6.0,Michigan Stadium
+2026-11-07,2026,REG,IOWA,NU,Iowa Hawkeyes,Northwestern Wildcats,24.0,10.0,Ryan Field
+2026-11-07,2026,REG,AFA,ARMY,Air Force Falcons,Army Black Knights,24.0,21.0,Michie Stadium
+2026-11-07,2026,REG,OU,FLA,Oklahoma Sooners,Florida Gators,23.0,7.0,Ben Hill Griffin Stadium
+2026-11-07,2026,REG,LIB,NMSU,Liberty Flames,New Mexico State Aggies,30.0,14.0,Aggie Memorial Stadium
+2026-11-07,2026,REG,WVU,TTU,West Virginia Mountaineers,Texas Tech Red Raiders,48.0,53.0,Galaxy Stadium
+2026-11-07,2026,REG,FRES,USU,Fresno State Bulldogs,Utah State Aggies,10.0,17.0,Maverik Stadium
+2026-11-07,2026,REG,HAW,UTEP,Hawai'i Rainbow Warriors,UTEP Miners,17.0,14.0,Sun Bowl
+2026-11-07,2026,REG,TXST,ORST,Texas State Bobcats,Oregon State Beavers,42.0,21.0,Reser Stadium
+2026-11-07,2026,REG,WYO,UNLV,Wyoming Cowboys,UNLV Rebels,41.0,35.0,Allegiant Stadium
+2026-11-10,2026,REG,WMU,AKR,Western Michigan Broncos,Akron Zips,42.0,14.0,InfoCision Stadium
+2026-11-10,2026,REG,KENT,BGSU,Kent State Golden Flashes,Bowling Green Falcons,28.0,33.0,Doyt L. Perry Stadium
+2026-11-10,2026,REG,OHIO,M-OH,Ohio Bobcats,Miami (OH) RedHawks,17.0,34.0,Yager Stadium
+2026-11-11,2026,REG,BUFF,BALL,Buffalo Bulls,Ball State Cardinals,28.0,7.0,Scheumann Stadium
+2026-11-11,2026,REG,SAC,CMU,Sacramento State Hornets,Central Michigan Chippewas,7.0,28.0,Kelly/Shorts Stadium
+2026-11-11,2026,REG,MASS,TOL,Massachusetts Minutemen,Toledo Rockets,0.0,24.0,Glass Bowl
+2026-11-12,2026,REG,MEM,USF,Memphis Tigers,South Florida Bulls,52.0,41.0,Raymond James Stadium
+2026-11-12,2026,REG,UL,ULM,Louisiana Ragin' Cajuns,UL Monroe Warhawks,42.0,21.0,Malone Stadium
+2026-11-13,2026,REG,FSU,PITT,Florida State Seminoles,Pittsburgh Panthers,16.0,10.0,Acrisure Stadium
+2026-11-13,2026,REG,ILL,UCLA,Illinois Fighting Illini,UCLA Bruins,14.0,22.0,Rose Bowl
+2026-11-13,2026,REG,HOU,COLO,Houston Cougars,Colorado Buffaloes,32.0,42.0,Folsom Field
 2026-11-14,2026,REG,CIN,ISU,Cincinnati Bearcats,Iowa State Cyclones,,,Jack Trice Stadium
-2026-11-14,2026,REG,KU,WVU,Kansas Jayhawks,West Virginia Mountaineers,,,Milan Puskar Stadium
-2026-11-14,2026,REG,KSU,TCU,Kansas State Wildcats,TCU Horned Frogs,,,Amon G. Carter Stadium
-2026-11-14,2026,REG,TTU,OKST,Texas Tech Red Raiders,Oklahoma State Cowboys,,,Boone Pickens Stadium
-2026-11-14,2026,REG,UTAH,ARIZ,Utah Utes,Arizona Wildcats,,,Casino Del Sol Stadium
-2026-11-14,2026,REG,MIZ,UGA,Missouri Tigers,Georgia Bulldogs,,,Sanford Stadium
-2026-11-14,2026,REG,FLA,UK,Florida Gators,Kentucky Wildcats,,,Kroger Field
-2026-11-14,2026,REG,TEX,LSU,Texas Longhorns,LSU Tigers,,,Tiger Stadium (LA)
-2026-11-14,2026,REG,MISS,OU,Ole Miss Rebels,Oklahoma Sooners,,,"Memorial Stadium (Norman, OK)"
-2026-11-14,2026,REG,TENN,TA&M,Tennessee Volunteers,Texas A&M Aggies,,,Kyle Field
-2026-11-14,2026,REG,LOU,UNC,Louisville Cardinals,North Carolina Tar Heels,,,Kenan Stadium
-2026-11-14,2026,REG,STAN,VT,Stanford Cardinal,Virginia Tech Hokies,,,Lane Stadium
-2026-11-14,2026,REG,PUR,IOWA,Purdue Boilermakers,Iowa Hawkeyes,,,Kinnick Stadium
-2026-11-14,2026,REG,AUB,MSST,Auburn Tigers,Mississippi State Bulldogs,,,Davis Wade Stadium
 2026-11-14,2026,REG,DUKE,MIA,Duke Blue Devils,Miami Hurricanes,,,Hard Rock Stadium
 2026-11-14,2026,REG,SYR,NCSU,Syracuse Orange,NC State Wolfpack,,,Carter-Finley Stadium
 2026-11-14,2026,REG,WAKE,SMU,Wake Forest Demon Deacons,SMU Mustangs,,,Gerald J. Ford Stadium
@@ -1681,36 +1666,51 @@ date,season,game_type,away,home,away_name,home_name,away_score,home_score,venue
 2026-11-14,2026,REG,ECU,CLT,East Carolina Pirates,Charlotte 49ers,,,Jerry Richardson Stadium
 2026-11-14,2026,REG,UAB,TEM,UAB Blazers,Temple Owls,,,Lincoln Financial Field
 2026-11-14,2026,REG,ARST,CCU,Arkansas State Red Wolves,Coastal Carolina Chanticleers,,,Brooks Stadium (SC)
-2026-11-14,2026,REG,TULN,RICE,Tulane Green Wave,Rice Owls,,,First Community Stadium
+2026-11-14,2026,REG,KSU,TCU,Kansas State Wildcats,TCU Horned Frogs,,,Amon G. Carter Stadium
 2026-11-14,2026,REG,KENN,SHSU,Kennesaw State Owls,Sam Houston Bearkats,,,Elliott T. Bowers Stadium
+2026-11-14,2026,REG,TENN,TA&M,Tennessee Volunteers,Texas A&M Aggies,,,Kyle Field
 2026-11-14,2026,REG,NMSU,MOST,New Mexico State Aggies,Missouri State Bears,,,Robert W. Plaster Stadium
 2026-11-14,2026,REG,FIU,DEL,Florida International Panthers,Delaware Blue Hens,,,Delaware Stadium
+2026-11-14,2026,REG,KU,WVU,Kansas Jayhawks,West Virginia Mountaineers,,,Milan Puskar Stadium
+2026-11-14,2026,REG,MIZ,UGA,Missouri Tigers,Georgia Bulldogs,,,Sanford Stadium
 2026-11-14,2026,REG,BC,ND,Boston College Eagles,Notre Dame Fighting Irish,,,Notre Dame Stadium
 2026-11-14,2026,REG,CAL,UVA,California Golden Bears,Virginia Cavaliers,,,Scott Stadium
 2026-11-14,2026,REG,USC,IU,USC Trojans,Indiana Hoosiers,,,"Memorial Stadium (Bloomington, IN)"
 2026-11-14,2026,REG,MICH,ORE,Michigan Wolverines,Oregon Ducks,,,Autzen Stadium
-2026-11-14,2026,REG,FAU,TLSA,Florida Atlantic Owls,Tulsa Golden Hurricane,,,H. A. Chapman Stadium
 2026-11-14,2026,REG,NEV,NIU,Nevada Wolf Pack,Northern Illinois Huskies,,,Huskie Stadium
 2026-11-14,2026,REG,GASO,GAST,Georgia Southern Eagles,Georgia State Panthers,,,Center Parc Stadium
 2026-11-14,2026,REG,JXST,WKU,Jacksonville State Gamecocks,Western Kentucky Hilltoppers,,,Houchens Industries-L.T. Smith Stadium
 2026-11-14,2026,REG,MTSU,LIB,Middle Tennessee Blue Raiders,Liberty Flames,,,Williams Stadium (VA)
 2026-11-14,2026,REG,FRES,TXST,Fresno State Bulldogs,Texas State Bobcats,,,UFCU Stadium
-2026-11-14,2026,REG,WASH,MSU,Washington Huskies,Michigan State Spartans,,,Spartan Stadium
+2026-11-14,2026,REG,AUB,MSST,Auburn Tigers,Mississippi State Bulldogs,,,Davis Wade Stadium
+2026-11-14,2026,REG,TULN,RICE,Tulane Green Wave,Rice Owls,,,First Community Stadium
 2026-11-14,2026,REG,USM,LT,Southern Miss Golden Eagles,Louisiana Tech Bulldogs,,,Joe Aillet Stadium
+2026-11-14,2026,REG,ASU,UCF,Arizona State Sun Devils,UCF Knights,,,Acrisure Bounce House
+2026-11-14,2026,REG,WASH,MSU,Washington Huskies,Michigan State Spartans,,,Spartan Stadium
 2026-11-14,2026,REG,ORST,BOIS,Oregon State Beavers,Boise State Broncos,,,Albertsons Stadium
 2026-11-14,2026,REG,APP,MRSH,App State Mountaineers,Marshall Thundering Herd,,,Joan C. Edwards Stadium
+2026-11-14,2026,REG,FLA,UK,Florida Gators,Kentucky Wildcats,,,Kroger Field
+2026-11-14,2026,REG,BAY,BYU,Baylor Bears,BYU Cougars,,,LaVell Edwards Stadium
+2026-11-14,2026,REG,LOU,UNC,Louisville Cardinals,North Carolina Tar Heels,,,Kenan Stadium
 2026-11-14,2026,REG,MINN,PSU,Minnesota Golden Gophers,Penn State Nittany Lions,,,Beaver Stadium
 2026-11-14,2026,REG,SJSU,AFA,San José State Spartans,Air Force Falcons,,,Falcon Stadium
 2026-11-14,2026,REG,TROY,USA,Troy Trojans,South Alabama Jaguars,,,Hancock Whitney Stadium
+2026-11-14,2026,REG,FAU,TLSA,Florida Atlantic Owls,Tulsa Golden Hurricane,,,H. A. Chapman Stadium
+2026-11-14,2026,REG,TEX,LSU,Texas Longhorns,LSU Tigers,,,Tiger Stadium (LA)
+2026-11-14,2026,REG,STAN,VT,Stanford Cardinal,Virginia Tech Hokies,,,Lane Stadium
+2026-11-14,2026,REG,PUR,IOWA,Purdue Boilermakers,Iowa Hawkeyes,,,Kinnick Stadium
 2026-11-14,2026,REG,UNLV,UNM,UNLV Rebels,New Mexico Lobos,,,University Stadium (NM)
 2026-11-14,2026,REG,SC,ARK,South Carolina Gamecocks,Arkansas Razorbacks,,,Donald W. Reynolds Razorback Stadium
 2026-11-14,2026,REG,UNT,UTSA,North Texas Mean Green,UTSA Roadrunners,,,Alamodome
+2026-11-14,2026,REG,TTU,OKST,Texas Tech Red Raiders,Oklahoma State Cowboys,,,Boone Pickens Stadium
 2026-11-14,2026,REG,USU,SDSU,Utah State Aggies,San Diego State Aztecs,,,Snapdragon Stadium
 2026-11-14,2026,REG,WYO,UTEP,Wyoming Cowboys,UTEP Miners,,,Sun Bowl
+2026-11-14,2026,REG,UTAH,ARIZ,Utah Utes,Arizona Wildcats,,,Casino Del Sol Stadium
 2026-11-14,2026,REG,CSU,WSU,Colorado State Rams,Washington State Cougars,,,Martin Stadium
 2026-11-14,2026,REG,NDSU,HAW,North Dakota State Bison,Hawai'i Rainbow Warriors,,,Clarence T.C. Ching Athletics Complex
-2026-11-17,2026,REG,BALL,OHIO,Ball State Cardinals,Ohio Bobcats,,,Peden Stadium
+2026-11-15,2026,REG,MISS,OU,Ole Miss Rebels,Oklahoma Sooners,,,"Memorial Stadium (Norman, OK)"
 2026-11-17,2026,REG,EMU,WMU,Eastern Michigan Eagles,Western Michigan Broncos,,,Waldo Stadium
+2026-11-17,2026,REG,BALL,OHIO,Ball State Cardinals,Ohio Bobcats,,,Peden Stadium
 2026-11-17,2026,REG,M-OH,KENT,Miami (OH) RedHawks,Kent State Golden Flashes,,,Zoeller Field at Dix Stadium
 2026-11-18,2026,REG,AKR,MASS,Akron Zips,Massachusetts Minutemen,,,Warren McGuirk Alumni Stadium
 2026-11-18,2026,REG,CMU,BUFF,Central Michigan Chippewas,Buffalo Bulls,,,Broadview Stadium
@@ -1721,70 +1721,68 @@ date,season,game_type,away,home,away_name,home_name,away_score,home_score,venue
 2026-11-20,2026,REG,ORE,MSU,Oregon Ducks,Michigan State Spartans,,,Spartan Stadium
 2026-11-20,2026,REG,UTEP,AFA,UTEP Miners,Air Force Falcons,,,Falcon Stadium
 2026-11-20,2026,REG,UNM,WYO,New Mexico Lobos,Wyoming Cowboys,,,War Memorial Stadium
-2026-11-21,2026,REG,VAN,FLA,Vanderbilt Commodores,Florida Gators,,,Ben Hill Griffin Stadium
-2026-11-21,2026,REG,UK,MIZ,Kentucky Wildcats,Missouri Tigers,,,Memorial Stadium
-2026-11-21,2026,REG,TA&M,OU,Texas A&M Aggies,Oklahoma Sooners,,,"Memorial Stadium (Norman, OK)"
-2026-11-21,2026,REG,UGA,SC,Georgia Bulldogs,South Carolina Gamecocks,,,Williams-Brice Stadium
-2026-11-21,2026,REG,LSU,TENN,LSU Tigers,Tennessee Volunteers,,,Neyland Stadium
-2026-11-21,2026,REG,ARK,TEX,Arkansas Razorbacks,Texas Longhorns,,,DKR-Texas Memorial Stadium
 2026-11-21,2026,REG,ARIZ,KSU,Arizona Wildcats,Kansas State Wildcats,,,Bill Snyder Family Stadium
 2026-11-21,2026,REG,BYU,KU,BYU Cougars,Kansas Jayhawks,,,David Booth Kansas Memorial Stadium
-2026-11-21,2026,REG,COLO,CIN,Colorado Buffaloes,Cincinnati Bearcats,,,Nippert Stadium
 2026-11-21,2026,REG,HOU,WVU,Houston Cougars,West Virginia Mountaineers,,,Milan Puskar Stadium
-2026-11-21,2026,REG,OKST,ASU,Oklahoma State Cowboys,Arizona State Sun Devils,,,Mountain America Stadium
 2026-11-21,2026,REG,TTU,BAY,Texas Tech Red Raiders,Baylor Bears,,,McLane Stadium
 2026-11-21,2026,REG,UTAH,TCU,Utah Utes,TCU Horned Frogs,,,Amon G. Carter Stadium
 2026-11-21,2026,REG,VT,MIA,Virginia Tech Hokies,Miami Hurricanes,,,Hard Rock Stadium
-2026-11-21,2026,REG,NCSU,FSU,NC State Wolfpack,Florida State Seminoles,,,Doak Campbell Stadium
-2026-11-21,2026,REG,UNC,UVA,North Carolina Tar Heels,Virginia Cavaliers,,,Scott Stadium
 2026-11-21,2026,REG,PITT,LOU,Pittsburgh Panthers,Louisville Cardinals,,,L&N Federal Credit Union Stadium
-2026-11-21,2026,REG,STAN,CAL,Stanford Cardinal,California Golden Bears,,,California Memorial Stadium
-2026-11-21,2026,REG,SYR,BC,Syracuse Orange,Boston College Eagles,,,"Alumni Stadium (Chestnut Hill, MA)"
 2026-11-21,2026,REG,WAKE,GT,Wake Forest Demon Deacons,Georgia Tech Yellow Jackets,,,Bobby Dodd Stadium
-2026-11-21,2026,REG,IOWA,ILL,Iowa Hawkeyes,Illinois Fighting Illini,,,Gies Memorial Stadium
 2026-11-21,2026,REG,UCLA,MICH,UCLA Bruins,Michigan Wolverines,,,Michigan Stadium
-2026-11-21,2026,REG,NU,MINN,Northwestern Wildcats,Minnesota Golden Gophers,,,Huntington Bank Stadium
 2026-11-21,2026,REG,OSU,NEB,Ohio State Buckeyes,Nebraska Cornhuskers,,,"Memorial Stadium (Lincoln, NE)"
-2026-11-21,2026,REG,RUTG,PSU,Rutgers Scarlet Knights,Penn State Nittany Lions,,,Beaver Stadium
-2026-11-21,2026,REG,WIS,PUR,Wisconsin Badgers,Purdue Boilermakers,,,Ross-Ade Stadium
-2026-11-21,2026,REG,MD,USC,Maryland Terrapins,USC Trojans,,,Los Angeles Memorial Coliseum
 2026-11-21,2026,REG,IU,WASH,Indiana Hoosiers,Washington Huskies,,,Husky Stadium
-2026-11-21,2026,REG,CLT,TLSA,Charlotte 49ers,Tulsa Golden Hurricane,,,H. A. Chapman Stadium
-2026-11-21,2026,REG,USF,FAU,South Florida Bulls,Florida Atlantic Owls,,,Flagler Credit Union Stadium
 2026-11-21,2026,REG,UNT,TULN,North Texas Mean Green,Tulane Green Wave,,,Yulman Stadium
 2026-11-21,2026,REG,UTSA,UAB,UTSA Roadrunners,UAB Blazers,,,Protective Stadium
-2026-11-21,2026,REG,HAW,NEV,Hawai'i Rainbow Warriors,Nevada Wolf Pack,,,Mackay Stadium
-2026-11-21,2026,REG,ULM,APP,UL Monroe Warhawks,App State Mountaineers,,,Kidd Brewer Stadium
-2026-11-21,2026,REG,ARST,LT,Arkansas State Red Wolves,Louisiana Tech Bulldogs,,,Joe Aillet Stadium
-2026-11-21,2026,REG,CCU,UL,Coastal Carolina Chanticleers,Louisiana Ragin' Cajuns,,,Our Lady of Lourdes Stadium
-2026-11-21,2026,REG,GASO,TROY,Georgia Southern Eagles,Troy Trojans,,,Veterans Memorial Stadium (AL)
-2026-11-21,2026,REG,GAST,MRSH,Georgia State Panthers,Marshall Thundering Herd,,,Joan C. Edwards Stadium
-2026-11-21,2026,REG,USA,USM,South Alabama Jaguars,Southern Miss Golden Eagles,,,M. M. Roberts Stadium
+2026-11-21,2026,REG,VAN,FLA,Vanderbilt Commodores,Florida Gators,,,Ben Hill Griffin Stadium
 2026-11-21,2026,REG,WOF,MISS,Wofford Terriers,Ole Miss Rebels,,,Vaught-Hemingway Stadium
+2026-11-21,2026,REG,TA&M,OU,Texas A&M Aggies,Oklahoma Sooners,,,"Memorial Stadium (Norman, OK)"
+2026-11-21,2026,REG,COLO,CIN,Colorado Buffaloes,Cincinnati Bearcats,,,Nippert Stadium
+2026-11-21,2026,REG,SYR,BC,Syracuse Orange,Boston College Eagles,,,"Alumni Stadium (Chestnut Hill, MA)"
+2026-11-21,2026,REG,NU,MINN,Northwestern Wildcats,Minnesota Golden Gophers,,,Huntington Bank Stadium
+2026-11-21,2026,REG,WIS,PUR,Wisconsin Badgers,Purdue Boilermakers,,,Ross-Ade Stadium
 2026-11-21,2026,REG,ECU,ARMY,East Carolina Pirates,Army Black Knights,,,Michie Stadium
 2026-11-21,2026,REG,MEM,NAVY,Memphis Tigers,Navy Midshipmen,,,Navy-Marine Corps Memorial Stadium
+2026-11-21,2026,REG,UNC,UVA,North Carolina Tar Heels,Virginia Cavaliers,,,Scott Stadium
 2026-11-21,2026,REG,TNTC,MSST,Tennessee Tech Golden Eagles,Mississippi State Bulldogs,,,Davis Wade Stadium
 2026-11-21,2026,REG,WKU,LIB,Western Kentucky Hilltoppers,Liberty Flames,,,Williams Stadium (VA)
 2026-11-21,2026,REG,UTC,ALA,Chattanooga Mocs,Alabama Crimson Tide,,,Bryant-Denny Stadium
+2026-11-21,2026,REG,CLT,TLSA,Charlotte 49ers,Tulsa Golden Hurricane,,,H. A. Chapman Stadium
 2026-11-21,2026,REG,MOST,JXST,Missouri State Bears,Jacksonville State Gamecocks,,,AmFirst Stadium
 2026-11-21,2026,REG,MTSU,SHSU,Middle Tennessee Blue Raiders,Sam Houston Bearkats,,,Elliott T. Bowers Stadium
+2026-11-21,2026,REG,IOWA,ILL,Iowa Hawkeyes,Illinois Fighting Illini,,,Gies Memorial Stadium
+2026-11-21,2026,REG,USF,FAU,South Florida Bulls,Florida Atlantic Owls,,,Flagler Credit Union Stadium
+2026-11-21,2026,REG,ULM,APP,UL Monroe Warhawks,App State Mountaineers,,,Kidd Brewer Stadium
+2026-11-21,2026,REG,CCU,UL,Coastal Carolina Chanticleers,Louisiana Ragin' Cajuns,,,Our Lady of Lourdes Stadium
 2026-11-21,2026,REG,DEL,NMSU,Delaware Blue Hens,New Mexico State Aggies,,,Aggie Memorial Stadium
 2026-11-21,2026,REG,FIU,KENN,Florida International Panthers,Kennesaw State Owls,,,Walens Family Field at Fifth Third Stadium
 2026-11-21,2026,REG,SAM,AUB,Samford Bulldogs,Auburn Tigers,,,Jordan-Hare Stadium
+2026-11-21,2026,REG,LSU,TENN,LSU Tigers,Tennessee Volunteers,,,Neyland Stadium
+2026-11-21,2026,REG,ARK,TEX,Arkansas Razorbacks,Texas Longhorns,,,DKR-Texas Memorial Stadium
+2026-11-21,2026,REG,NCSU,FSU,NC State Wolfpack,Florida State Seminoles,,,Doak Campbell Stadium
+2026-11-21,2026,REG,RUTG,PSU,Rutgers Scarlet Knights,Penn State Nittany Lions,,,Beaver Stadium
 2026-11-21,2026,REG,ODU,CONN,Old Dominion Monarchs,UConn Huskies,,,Pratt & Whitney Stadium
 2026-11-21,2026,REG,NIU,NDSU,Northern Illinois Huskies,North Dakota State Bison,,,Fargodome
+2026-11-21,2026,REG,GASO,TROY,Georgia Southern Eagles,Troy Trojans,,,Veterans Memorial Stadium (AL)
+2026-11-21,2026,REG,GAST,MRSH,Georgia State Panthers,Marshall Thundering Herd,,,Joan C. Edwards Stadium
+2026-11-21,2026,REG,USA,USM,South Alabama Jaguars,Southern Miss Golden Eagles,,,M. M. Roberts Stadium
 2026-11-21,2026,REG,WSU,TXST,Washington State Cougars,Texas State Bobcats,,,UFCU Stadium
+2026-11-21,2026,REG,MD,USC,Maryland Terrapins,USC Trojans,,,Los Angeles Memorial Coliseum
 2026-11-21,2026,REG,UNLV,SJSU,UNLV Rebels,San José State Spartans,,,CEFCU Stadium
+2026-11-21,2026,REG,ARST,LT,Arkansas State Red Wolves,Louisiana Tech Bulldogs,,,Joe Aillet Stadium
+2026-11-21,2026,REG,UK,MIZ,Kentucky Wildcats,Missouri Tigers,,,Memorial Stadium
+2026-11-21,2026,REG,UGA,SC,Georgia Bulldogs,South Carolina Gamecocks,,,Williams-Brice Stadium
 2026-11-21,2026,REG,SMU,ND,SMU Mustangs,Notre Dame Fighting Irish,,,Notre Dame Stadium
+2026-11-21,2026,REG,STAN,CAL,Stanford Cardinal,California Golden Bears,,,California Memorial Stadium
 2026-11-21,2026,REG,CSU,FRES,Colorado State Rams,Fresno State Bulldogs,,,Valley Children's Stadium
 2026-11-21,2026,REG,SDSU,BOIS,San Diego State Aztecs,Boise State Broncos,,,Albertsons Stadium
+2026-11-21,2026,REG,OKST,ASU,Oklahoma State Cowboys,Arizona State Sun Devils,,,Mountain America Stadium
 2026-11-21,2026,REG,USU,ORST,Utah State Aggies,Oregon State Beavers,,,Reser Stadium
-2026-11-24,2026,REG,M-OH,WMU,Miami (OH) RedHawks,Western Michigan Broncos,,,Waldo Stadium
+2026-11-21,2026,REG,HAW,NEV,Hawai'i Rainbow Warriors,Nevada Wolf Pack,,,Mackay Stadium
 2026-11-24,2026,REG,KENT,EMU,Kent State Golden Flashes,Eastern Michigan Eagles,,,Rynearson Stadium
+2026-11-24,2026,REG,M-OH,WMU,Miami (OH) RedHawks,Western Michigan Broncos,,,Waldo Stadium
 2026-11-26,2026,REG,TCU,TTU,TCU Horned Frogs,Texas Tech Red Raiders,,,Galaxy Stadium
-2026-11-27,2026,REG,FAU,ECU,Florida Atlantic Owls,East Carolina Pirates,,,Dowdy-Ficklen Stadium
 2026-11-27,2026,REG,TEM,MEM,Temple Owls,Memphis Tigers,,,Simmons Bank Liberty Stadium
-2026-11-27,2026,REG,TULN,USF,Tulane Green Wave,South Florida Bulls,,,Raymond James Stadium
 2026-11-27,2026,REG,TLSA,UTSA,Tulsa Golden Hurricane,UTSA Roadrunners,,,Alamodome
 2026-11-27,2026,REG,MSST,MISS,Mississippi State Bulldogs,Ole Miss Rebels,,,Vaught-Hemingway Stadium
 2026-11-27,2026,REG,NEB,IOWA,Nebraska Cornhuskers,Iowa Hawkeyes,,,Kinnick Stadium
@@ -1828,6 +1826,8 @@ date,season,game_type,away,home,away_name,home_name,away_score,home_score,venue
 2026-11-28,2026,REG,TBD,USU,TBD,Utah State Aggies,,,Maverik Stadium
 2026-11-28,2026,REG,TBD,WSU,TBD,Washington State Cougars,,,Martin Stadium
 2026-11-28,2026,REG,CONN,WYO,UConn Huskies,Wyoming Cowboys,,,War Memorial Stadium
+2026-11-28,2026,REG,FAU,ECU,Florida Atlantic Owls,East Carolina Pirates,,,Dowdy-Ficklen Stadium
+2026-11-28,2026,REG,TULN,USF,Tulane Green Wave,South Florida Bulls,,,Raymond James Stadium
 2026-11-28,2026,REG,ARMY,RICE,Army Black Knights,Rice Owls,,,First Community Stadium
 2026-11-28,2026,REG,NAVY,CLT,Navy Midshipmen,Charlotte 49ers,,,Jerry Richardson Stadium
 2026-11-28,2026,REG,UAB,UNT,UAB Blazers,North Texas Mean Green,,,DATCU Stadium
