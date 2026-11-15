@@ -1702,9 +1702,9 @@ date,season,game_type,away,home,away_name,home_name,away_score,home_score,venue
 2026-11-14,2026,REG,UNLV,UNM,UNLV Rebels,New Mexico Lobos,21.0,17.0,University Stadium (NM)
 2026-11-14,2026,REG,SC,ARK,South Carolina Gamecocks,Arkansas Razorbacks,6.0,34.0,Donald W. Reynolds Razorback Stadium
 2026-11-14,2026,REG,UNT,UTSA,North Texas Mean Green,UTSA Roadrunners,16.0,35.0,Alamodome
-2026-11-14,2026,REG,TTU,OKST,Texas Tech Red Raiders,Oklahoma State Cowboys,,,Boone Pickens Stadium
-2026-11-14,2026,REG,USU,SDSU,Utah State Aggies,San Diego State Aztecs,,,Snapdragon Stadium
-2026-11-14,2026,REG,WYO,UTEP,Wyoming Cowboys,UTEP Miners,,,Sun Bowl
+2026-11-14,2026,REG,TTU,OKST,Texas Tech Red Raiders,Oklahoma State Cowboys,52.0,27.0,Boone Pickens Stadium
+2026-11-14,2026,REG,USU,SDSU,Utah State Aggies,San Diego State Aztecs,13.0,30.0,Snapdragon Stadium
+2026-11-14,2026,REG,WYO,UTEP,Wyoming Cowboys,UTEP Miners,27.0,15.0,Sun Bowl
 2026-11-14,2026,REG,UTAH,ARIZ,Utah Utes,Arizona Wildcats,,,Casino Del Sol Stadium
 2026-11-14,2026,REG,CSU,WSU,Colorado State Rams,Washington State Cougars,,,Martin Stadium
 2026-11-14,2026,REG,NDSU,HAW,North Dakota State Bison,Hawai'i Rainbow Warriors,,,Clarence T.C. Ching Athletics Complex

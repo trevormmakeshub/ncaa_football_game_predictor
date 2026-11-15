@@ -78,7 +78,7 @@ NMSU,New Mexico State Aggies,Conference USA,10,3,7,0,207,259,20.7,25.9
 NU,Northwestern Wildcats,Big Ten Conference,10,6,4,0,298,202,29.8,20.2
 ODU,Old Dominion Monarchs,Sun Belt Conference,10,3,7,0,168,258,16.8,25.8
 OHIO,Ohio Bobcats,Mid-American Conference,10,7,3,0,282,229,28.2,22.9
-OKST,Oklahoma State Cowboys,Big 12 Conference,9,6,3,0,395,245,43.888888888888886,27.22222222222222
+OKST,Oklahoma State Cowboys,Big 12 Conference,10,6,4,0,422,297,42.2,29.7
 ORE,Oregon Ducks,Big Ten Conference,10,7,3,0,338,206,33.8,20.6
 ORST,Oregon State Beavers,Pac-12 Conference,10,5,5,0,383,288,38.3,28.8
 OSU,Ohio State Buckeyes,Big Ten Conference,10,7,3,0,349,184,34.9,18.4
@@ -90,7 +90,7 @@ RICE,Rice Owls,American Conference,10,1,9,0,208,326,20.8,32.6
 RUTG,Rutgers Scarlet Knights,Big Ten Conference,10,2,8,0,232,323,23.2,32.3
 SAC,Sacramento State Hornets,Mid-American Conference,11,2,9,0,177,321,16.09090909090909,29.181818181818183
 SC,South Carolina Gamecocks,Southeastern Conference,10,6,4,0,318,245,31.8,24.5
-SDSU,San Diego State Aztecs,Pac-12 Conference,9,4,5,0,238,309,26.444444444444443,34.333333333333336
+SDSU,San Diego State Aztecs,Pac-12 Conference,10,5,5,0,268,322,26.8,32.2
 SHSU,Sam Houston Bearkats,Conference USA,10,1,9,0,165,274,16.5,27.4
 SJSU,San José State Spartans,Mountain West Conference,11,5,6,0,212,244,19.272727272727273,22.181818181818183
 SMU,SMU Mustangs,Atlantic Coast Conference,10,7,3,0,340,255,34.0,25.5
@@ -104,7 +104,7 @@ TEX,Texas Longhorns,Southeastern Conference,10,8,2,0,302,178,30.2,17.8
 TLSA,Tulsa Golden Hurricane,American Conference,10,6,4,0,336,226,33.6,22.6
 TOL,Toledo Rockets,Mid-American Conference,10,8,2,0,343,220,34.3,22.0
 TROY,Troy Trojans,Sun Belt Conference,10,4,6,0,215,263,21.5,26.3
-TTU,Texas Tech Red Raiders,Big 12 Conference,9,8,1,0,338,217,37.55555555555556,24.11111111111111
+TTU,Texas Tech Red Raiders,Big 12 Conference,10,9,1,0,390,244,39.0,24.4
 TULN,Tulane Green Wave,American Conference,10,5,5,0,210,280,21.0,28.0
 TXST,Texas State Bobcats,Pac-12 Conference,10,6,4,0,384,312,38.4,31.2
 UAB,UAB Blazers,American Conference,10,6,4,0,232,224,23.2,22.4
@@ -122,9 +122,9 @@ USA,South Alabama Jaguars,Sun Belt Conference,10,5,5,0,319,304,31.9,30.4
 USC,USC Trojans,Big Ten Conference,10,7,3,0,305,245,30.5,24.5
 USF,South Florida Bulls,American Conference,10,6,4,0,274,188,27.4,18.8
 USM,Southern Miss Golden Eagles,Sun Belt Conference,10,3,7,0,269,365,26.9,36.5
-USU,Utah State Aggies,Pac-12 Conference,9,4,5,0,152,185,16.88888888888889,20.555555555555557
+USU,Utah State Aggies,Pac-12 Conference,10,4,6,0,165,215,16.5,21.5
 UTAH,Utah Utes,Big 12 Conference,9,9,0,0,339,147,37.666666666666664,16.333333333333332
-UTEP,UTEP Miners,Mountain West Conference,9,1,8,0,127,309,14.11111111111111,34.333333333333336
+UTEP,UTEP Miners,Mountain West Conference,10,1,9,0,142,336,14.2,33.6
 UTSA,UTSA Roadrunners,American Conference,10,8,2,0,332,284,33.2,28.4
 UVA,Virginia Cavaliers,Atlantic Coast Conference,10,5,5,0,269,215,26.9,21.5
 VAN,Vanderbilt Commodores,Southeastern Conference,10,4,6,0,213,286,21.3,28.6
@@ -136,4 +136,4 @@ WKU,Western Kentucky Hilltoppers,Conference USA,10,4,6,0,246,324,24.6,32.4
 WMU,Western Michigan Broncos,Mid-American Conference,10,7,3,0,278,187,27.8,18.7
 WSU,Washington State Cougars,Pac-12 Conference,9,1,8,0,171,247,19.0,27.444444444444443
 WVU,West Virginia Mountaineers,Big 12 Conference,10,5,5,0,349,348,34.9,34.8
-WYO,Wyoming Cowboys,Mountain West Conference,9,6,3,0,197,195,21.88888888888889,21.666666666666668
+WYO,Wyoming Cowboys,Mountain West Conference,10,7,3,0,224,210,22.4,21.0

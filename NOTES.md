@@ -7,24 +7,24 @@ Form uses only earlier games: win rate, points scored, points allowed, rest days
 Ranking rows: 1451. Weeks are the occurrence on each poll. Player rows are the ESPN 2026 regular-season leader table. The site rankings endpoint ignores the requested week and returns the latest poll, so it is not used for past weeks. There is no recorded public closing line in this table. spread_line and total_line are blank. The line column says this is not a bet. This does not price a bet.
 
 FBS teams: 138
-Completed rows: 1703
+Completed rows: 1706
 2025 regular-season games: 912
 2025 postseason games: 46
-2026 regular-season games: 745
+2026 regular-season games: 748
 Ties: 0
 Zero-score rows stored: 0
-Training rows: 1549
+Training rows: 1552
 Feature count: 12
 Minimum date: 2025-08-23
 Maximum date: 2026-11-14
-Next games through 2026-11-21: 77
-Next games dated 2026-11-14: 6
-Next games with home_win_prob: 77
-Held-out games from 2026-08-01: 736 of 813 training rows, accuracy 0.7242
-In-sample accuracy: 0.7114 on 1549 scored rows
+Next games through 2026-11-21: 74
+Next games dated 2026-11-14: 3
+Next games with home_win_prob: 74
+Held-out games from 2026-08-01: 739 of 813 training rows, accuracy 0.7253
+In-sample accuracy: 0.7107 on 1552 scored rows
 High-confidence next games: 20
-Baseline holdout: accuracy 0.7188, total MAE 15.688, prior-points blend MAE 14.367, 736 test games after 813 earlier games
-Recent-form holdout: accuracy 0.7242, total MAE 15.684, prior-points blend MAE 14.393, 736 test games after 813 earlier games
+Baseline holdout: accuracy 0.7185, total MAE 15.675, prior-points blend MAE 14.347, 739 test games after 813 earlier games
+Recent-form holdout: accuracy 0.7253, total MAE 15.677, prior-points blend MAE 14.375, 739 test games after 813 earlier games
 Recent form adopted: yes
 Points blend adopted: yes
 Current-season team rows: 138
