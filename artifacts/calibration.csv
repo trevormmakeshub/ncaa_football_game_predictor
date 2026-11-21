@@ -1,9 +1,9 @@
 split,bin,count,home_win_rate,calibrated,note
-in_sample,50-55,342,0.5350877192982456,yes,observed home-win rate is at least the bin floor
-in_sample,55-60,357,0.6862745098039216,yes,observed home-win rate is at least the bin floor
-in_sample,60-65,212,0.8160377358490566,yes,observed home-win rate is at least the bin floor
-in_sample,65-plus,261,0.946360153256705,yes,observed home-win rate is at least the bin floor
-holdout,50-55,156,0.532051282051282,yes,observed home-win rate is at least the bin floor
-holdout,55-60,164,0.7073170731707317,yes,observed home-win rate is at least the bin floor
-holdout,60-65,108,0.7314814814814815,yes,observed home-win rate is at least the bin floor
+in_sample,50-55,341,0.5395894428152492,yes,observed home-win rate is at least the bin floor
+in_sample,55-60,361,0.6842105263157895,yes,observed home-win rate is at least the bin floor
+in_sample,60-65,212,0.8207547169811321,yes,observed home-win rate is at least the bin floor
+in_sample,65-plus,259,0.9459459459459459,yes,observed home-win rate is at least the bin floor
+holdout,50-55,159,0.5345911949685535,yes,observed home-win rate is at least the bin floor
+holdout,55-60,165,0.703030303030303,yes,observed home-win rate is at least the bin floor
+holdout,60-65,111,0.7387387387387387,yes,observed home-win rate is at least the bin floor
 holdout,65-plus,177,0.9322033898305084,yes,observed home-win rate is at least the bin floor
